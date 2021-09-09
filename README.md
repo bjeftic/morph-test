@@ -13,7 +13,7 @@ This is PHP API created in Laravel 8. This system can be used to manage Library 
 * Run ```composer install```
 * Run ```php artisan key:generate```
 * Run ```php artisan migrate --seed``` (it has some seeded data for your testing)
-* Run ```php artisan serve --port=8000```
+* Run ```php artisan serve```
 * Open browser and go to ```http://127.0.0.1:8000/```
 
 # Database

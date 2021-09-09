@@ -34,7 +34,7 @@ You can get list of available urls by running command ``` php artisan route:list
 # Testing
 You can run ``` php artisan test ``` to run test
 
-I created three methods to test Author:
+I have created three methods to test Author:
 
 ```get all authors```
 ```get random author```

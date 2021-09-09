@@ -20,14 +20,11 @@
             </nav>
                 <div class="container">
                     <h3>Test - API</h3>
-
                     <p>
-                        Click here to go on <a href="#">Git repository</a>
+                        Click here to go on <a href="https://github.com/bjeftic/morph-test">Git repository</a>
                     </p>
-                    <h3>Available urls:</h3>
-                    <p>
-
-                    </p>
+                    <h3>List of available urls:</h3>
+                    <img src="https://user-images.githubusercontent.com/25004798/132738634-db887135-51cd-4628-9716-9403c1c5154a.png" alt="git">
                 </div>
             </div>
         </div>

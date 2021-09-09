@@ -44,3 +44,6 @@ I have created three methods to test Author:
 ![image](https://user-images.githubusercontent.com/25004798/132735998-2f8b60a4-3395-4cc1-a7ca-2e44ad221742.png)
 
 
+# Licence
+
+For selection purposes

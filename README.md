@@ -3,7 +3,7 @@ Morph test
 
 # About
 
-This is PHP API created in Laravel 8. This system can be used to managing Library database. For now in test purposes we only have two entities Author and Book models, but can be added a lot...
+This is PHP API created in Laravel 8. This system can be used to managing Library database. For now we only have two entities Author and Book models, but can be added a lot...
 
 # How to use
 * Clone the repository with git clone

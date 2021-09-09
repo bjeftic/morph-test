@@ -3,11 +3,11 @@ Morph test
 
 # About
 
-This is PHP API created in Laravel 8. This system can be used to managing Library database. For now we only have two entities Author and Book models, but can be added a lot...
+This is PHP API created in Laravel 8. This system can be used to manage Library database. Currently, we only have two entities Author and Book models, but can be added a lot more...
 
 # How to use
 * Clone the repository with git clone
-* Rename .env.example file to .env and out user credentials
+* Rename .env.example file to .env and set user credentials for Database
 * Create database with DDL code provided in Database section
 * Open terminal
 * Run ```composer install```

@@ -40,7 +40,7 @@ class AuthorController extends Controller
         $author->last_name = $request->last_name;
         $saved = $author->save();
         if($saved){
-            return response()->json(['success' => true, 'author_saved' => $id], 200);
+            return response()->json(['success' => true, 'author_saved' => $author->id], 200);
         }else{
             return response()->json(['success' => false, 'errors' => 'Author not found'], 500);
         }
